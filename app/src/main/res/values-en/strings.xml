@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Traditional Things Game</string>
+    <string name="app_title">Traditional Words</string>
+    <string name="share_the_question_with_friends">Ask a freind</string>
+    <string name="share_question_text">share</string>
+    <string name="share_title_hint">set title</string>
+    <string name="the_right_answer_is">The Answer Is</string>
+    <string name="back_text">back</string>
+    <string name="permission_title">clarification</string>
+    <string name="change_lang_text" >change languag</string>
+    <string name="permission_explanation">The app needs to have the power to write on the external storage unit to store the image in preparation for being able to share it through other applications</string>
+    <string name="permission_denied">The operation was not carried out owing to the lack of authority to implement it</string>
+
+
+    <string-array name="answers">
+        <item > Headband </item >
+        <item > Scalp </item >
+        <item > Sedu </item >
+        <item > Henna </item >
+        <item > Course </item >
+        <item > Light </item >
+        <item > Dagger </item >
+        <item > Stereotyping </item >
+        <item > Parsley/Sarraj </item >
+        <item > Lantern </item >
+        <item > Tarbush </item >
+        <item > Turban </item >
+        <item > Chatter </item>
+    </string-array>
+
+    <string-array name="answer_description">
+        <item > Put on top of the hem </item >
+        <item > Wool-lined, worn in winter for cold prevention </item >
+        <item > One type of traditional nomadic fabric </item >
+        <item > Used in hair and beard dye, also used in hand beauty for women </item >
+        <item > The bowl used to serve coffee in Arabs </item >
+        <item > Made of leather, worn in the foot, famous old in Arabs</item >
+        <item > Small white weapon placed on waist </item >
+        <item > Small pillow to be leaned on </item >
+        <item > Name of tool that was used for lighting in old </item >
+        <item > Tool used for lighting and decorations </item >
+        <item > Red hat popular in Levant, Egypt and Moroc </item >
+        <item > Overhead Coating </item >
+        <item > An Arabic dress dressed in abundance in Gulf countries</item >
+    </string-array>
+</resources>
